@@ -2,7 +2,7 @@ import styled from "styled-components/native";
 
 export const Container = styled.TouchableOpacity`
   background-color: #38b603;
-  border-width: 2;
+  border-width: 2px;
   border-color: #fff;
   height: 100px;
   width: 90%;
